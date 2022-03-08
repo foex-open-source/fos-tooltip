@@ -1,0 +1,2 @@
+{"version":3,"sources":["fade.css"],"names":[],"mappings":"AAAA,kD,CACE,S","file":"fade.css","sourcesContent":[".tippy-box[data-animation='fade'][data-state='hidden'] {\n\t opacity: 0;\n}"]}
+
