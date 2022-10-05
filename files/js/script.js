@@ -72,6 +72,7 @@ FOS.utils.tooltip.init = function (daContext, config, initFn) {
 
     // Allow the developer to perform any last (centralized) changes using Javascript Initialization Code setting
     if (initFn instanceof Function) {
+        debugger;
         initFn.call(daContext, config);
     }
 

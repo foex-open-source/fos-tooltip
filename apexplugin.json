@@ -1,6 +1,6 @@
 {
     "name":"FOS - Tooltip"
-   ,"version":"21.2.0"
+   ,"version":"22.1.0"
    ,"description":"A highly customisable dynamic Tooltip plug-in.\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\n\u003Cp\u003E\r\nAll FOS plug-ins are released under MIT License, which essentially means it is free for everyone to use, no matter if commercial or private use. \r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003EThe \u003Cstrong\u003EFOS - Tooltip \u003C\/strong\u003E dynamic action plug-in offers a simple and powerful solution to extend any APEX application with fancy tooltips. Based on the popular open source \u003Ca href=\"https:\/\/atomiks.github.io\/tippyjs\/\" target=\"_blank\"\u003ETippy.js\u003C\/a\u003E javascript library, we have added plenty of great features and customization capability that you can take advantage of.\u003C\/p\u003E\u003Cp\u003EYou can choose from different source options e.g. static, DOM attribute, SQL query, or PL\/SQL, meaning your content can be static or dynamically fetched from the database with the option to cache the results for maximum efficiency.\u003C\/p\u003E"
    ,"keywords":[
         "tooltip"
